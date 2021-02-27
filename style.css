@@ -1,0 +1,32 @@
+
+h1{
+    color:blue
+    
+}
+*{
+    border:thick;
+}
+.header{
+    background-color:rgb(235, 99, 156);
+    display: flex;
+    justify-content: space-between;
+    
+}
+.bodyimg{
+    display: flex;
+    justify-content: space-between;
+    border: thick #f012;
+    font-family:unset;
+    align-content: center;
+    flex-direction: row-reverse;
+    background-color: #f35353;
+    font-style:italic;
+}
+.grid{
+    display: flex;
+    justify-content: space-between;
+    background:#f98458;
+    color:  #f09;
+    font-style: oblique;
+    
+}
